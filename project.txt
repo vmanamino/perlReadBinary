@@ -1,0 +1,11 @@
+Assignment:
+
+Write a program that puts out binary data in understandable text form. The output should provide a representation on each line of output of 16 characters at a time from the input.  Binary data taken from an image file will be used to test the script.
+
+Viral's comments:
+
+"You're great Paul.  Thanks for guiding me without telling me.  I think I got it.  I feel I could have handled the Command Line Arguments better, more cleanly.  But I think I fulfilled the requirements."
+
+Mentor's feedback:
+
+"Bang on!  You got it exactly!!  Thanks for the kind words, BTW...You don't have to use unpack, but that's a fine solution..."
