@@ -9,3 +9,11 @@ Viral's comments:
 Mentor's feedback:
 
 "Bang on!  You got it exactly!!  Thanks for the kind words, BTW...You don't have to use unpack, but that's a fine solution..."
+
+To run:
+
+On command line write out: ./od.pl /software/Perl2/regmatch.png 
+
+or: 
+
+./od.pl -c /software/Perl2/regmatch.png
